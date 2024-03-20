@@ -59,13 +59,9 @@ if __name__ == "__main__":
 
     # print("\nAdding a new student...")
     # addStudent('Brendon', 'Luu', 'brendon.luu@example.com', '2003-09-03')
-    # addStudent('Brasdon', 'Lasduu', 'brendon.luasdu@example.com', '2003-09-03')    
-    # addStudent('Brenasddon', 'Lasduu', 'brendonasd.luu@example.com', '2003-09-03')
 
-    print("\nDeleting a student...")
-    deleteStudent(23)
-    deleteStudent(24)
-    deleteStudent(25)
+    # print("\nDeleting a student...")
+    # deleteStudent(23)
 
     # print("\nUpdating student email...")
     # updateStudentEmail(3, 'NEW.jim.beam@example.com')
