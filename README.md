@@ -37,5 +37,5 @@ It supports basic CRUD (Create, Read, Update, Delete) operations, allowing users
 
 ### Relevant Links
 
-Demonstrate Video Link: https://www.youtube.com/watch?v=ur6Xn6w5Ieg
-GitHub Repository URL: https://github.com/brendonluu/COMP3005-A3-Q1
+- Demonstrate Video Link: https://www.youtube.com/watch?v=ur6Xn6w5Ieg
+- GitHub Repository URL: https://github.com/brendonluu/COMP3005-A3-Q1
